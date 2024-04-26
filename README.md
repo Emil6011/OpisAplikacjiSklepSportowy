@@ -3,7 +3,7 @@ W tym repozytorium znajduję się szczegółowy opis aplikacji wraz ze zrzutami 
 
 Aplikacja została wykonana przy użyciu frameworku ASP .NET Core, w języku programowania C#. Do stworzenia interfejsu zostały użyte technologie webowe (HTML, CSS, JavaScript). Komunikacja z bazą danych przebiega za pomocą Entity framework. Użyta baza danych to wbudowany SQL Server.
 
-Aplikacja to sklep sportowy, w którym jest możliwość zamówienia produktów poprzez ich wybór z odpowiedniej kategorii i podkategorii, alternatywnie można wyszukać produkt poprzez wyszukiwarke. Produkty mogą być dodane do koszyka w celu złożenia zamówienia zawierającego kilka produktów naraz. Oprócz opisanych funkcjonalności istnieje możliwość logowania i rejestracji dzięki użyciu biblioteki Identity. Użytkownik po zalogowaniu ma dostęp do panelu zarządzania kontem. Stroną sklepu jest zarządzana poprzez konto administratora, po zalogowanie na nie, administrator ma dostęp do modułu produktów użytkowników i złożonych zamówień.
+Aplikacja to sklep sportowy, w którym jest możliwość zamówienia produktów poprzez ich wybór z odpowiedniej kategorii i podkategorii, alternatywnie można wyszukać produkt poprzez wyszukiwarke. Produkty mogą być dodane do koszyka w celu złożenia zamówienia zawierającego kilka produktów naraz. Oprócz opisanych funkcjonalności istnieje możliwość logowania i rejestracji dzięki użyciu biblioteki Identity. Użytkownik po zalogowaniu ma dostęp do panelu zarządzania kontem. Strona sklepu jest zarządzana poprzez konto administratora, po zalogowanie na nie, administrator ma dostęp do modułu produktów użytkowników i złożonych zamówień.
 
 1) Strona główna sklepu
 ![image](https://github.com/Emil6011/OpisAplikacjiSklepSportowy/assets/73350365/28a9b285-8e12-4b0b-bc3c-bae86f53308e)
